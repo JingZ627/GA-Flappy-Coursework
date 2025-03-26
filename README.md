@@ -1,4 +1,4 @@
-This is a simple coursework of soft computing course. Using Genetic Algorithm to play the game.
+This is a simple 2022 coursework of soft computing course. Using Genetic Algorithm to play the game.
 
 The game is from https://pypi.org/project/freegames/.
 
